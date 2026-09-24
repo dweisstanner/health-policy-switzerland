@@ -1,0 +1,768 @@
+/* =========================================================
+   University of Lucerne slide template
+   Balanced typography + flexible layouts
+   ========================================================= */
+
+
+/*-- scss:defaults --*/
+
+$body-bg: #ffffff;
+$body-color: #191919;
+$link-color: #b51f2e;
+$presentation-heading-color: #191919;
+$presentation-heading-font-weight: 600;
+
+/* Main slide text */
+$presentation-font-size-root: 30px;
+
+
+/*-- scss:rules --*/
+
+
+/* ---------------------------------------------------------
+   General
+   --------------------------------------------------------- */
+
+.reveal {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section {
+  padding-top: 58px;
+  padding-bottom: 36px;
+  box-sizing: border-box;
+}
+
+.reveal p,
+.reveal li {
+  line-height: 1.25;
+}
+
+.reveal li {
+  margin-bottom: 0.12em;
+}
+
+.reveal ul,
+.reveal ol {
+  margin-top: 0.3em;
+}
+
+.reveal strong {
+  font-weight: 600;
+}
+
+
+/* ---------------------------------------------------------
+   University of Lucerne logo — top right
+   --------------------------------------------------------- */
+
+.reveal .slide-logo {
+  display: block !important;
+  position: fixed !important;
+
+  top: 18px !important;
+  right: 28px !important;
+  left: auto !important;
+  bottom: auto !important;
+
+  width: 140px !important;
+  height: auto !important;
+
+  max-width: 140px !important;
+  max-height: none !important;
+
+  margin: 0 !important;
+  z-index: 1000 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Headings
+   --------------------------------------------------------- */
+
+.reveal h2 {
+  font-size: 1.55em;
+  font-weight: 600;
+
+  margin-top: 0.08em;
+  margin-bottom: 0.62em;
+
+  letter-spacing: -0.018em;
+  line-height: 1.06;
+}
+
+.reveal h2::after {
+  content: "";
+  display: block;
+
+  width: 66px;
+  height: 5px;
+
+  margin-top: 11px;
+
+  background: #b51f2e;
+}
+
+.reveal h3 {
+  font-size: 1.08em;
+  font-weight: 600;
+  color: #b51f2e;
+
+  margin-top: 0.4em;
+  margin-bottom: 0.3em;
+
+  line-height: 1.12;
+}
+
+
+/* ---------------------------------------------------------
+   Title slide
+   --------------------------------------------------------- */
+
+#title-slide {
+  text-align: left;
+  padding-top: 95px !important;
+}
+
+#title-slide .title {
+  font-size: 2.35em;
+  font-weight: 600;
+  line-height: 1.04;
+  letter-spacing: -0.025em;
+
+  max-width: 1000px;
+
+  margin-top: 0;
+  margin-bottom: 1.15em;
+}
+
+#title-slide .quarto-title-authors {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 0.45em;
+}
+
+#title-slide .quarto-title-author {
+  display: block;
+  font-size: 0.90em;
+  line-height: 1.35;
+  margin: 0;
+  padding: 0;
+}
+
+#title-slide .quarto-title-author-name {
+  font-size: 1em;
+  font-weight: 600;
+}
+
+#title-slide .institute {
+  font-size: 0.72em;
+  line-height: 1.35;
+  color: #555555;
+
+  max-width: 1050px;
+  margin-top: 0.45em;
+  margin-bottom: 0;
+}
+
+#title-slide .date {
+  font-size: 0.72em;
+  line-height: 1.35;
+  color: #555555;
+  margin-top: 0.35em;
+}
+
+#title-slide h1::after,
+#title-slide h2::after {
+  display: none;
+}
+
+
+
+/* ---------------------------------------------------------
+   Columns
+   --------------------------------------------------------- */
+
+.reveal .columns {
+  gap: 1.6em;
+  align-items: flex-start;
+}
+
+.reveal .column > :first-child {
+  margin-top: 0;
+}
+
+.reveal .column.card {
+  border-top: 5px solid #b51f2e;
+  background: #f5f5f5;
+
+  padding: 0.55em 0.70em 0.60em 0.70em;
+
+  box-sizing: border-box;
+}
+
+.reveal .column.card h3 {
+  margin-top: 0;
+}
+
+
+/* ---------------------------------------------------------
+   Cards
+   --------------------------------------------------------- */
+
+.reveal .card {
+  border-top: 5px solid #b51f2e;
+  background: #f5f5f5;
+
+  padding: 0.55em 0.70em 0.60em 0.70em;
+
+  margin-top: 0.25em;
+}
+
+.reveal .card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35em;
+}
+
+.reveal .card p {
+  margin-top: 0.25em;
+  margin-bottom: 0.25em;
+}
+
+.reveal .card ul {
+  margin-top: 0.25em;
+  margin-bottom: 0;
+}
+
+
+/* ---------------------------------------------------------
+   Actor cards
+   --------------------------------------------------------- */
+
+.reveal .actor-card {
+  border-left: 6px solid #b51f2e;
+  background: #f6f6f6;
+
+  padding: 0.35em 0.65em;
+
+  margin-bottom: 0.6em;
+}
+
+.reveal .actor-card strong {
+  font-size: 1.05em;
+}
+
+
+/* ---------------------------------------------------------
+   Key message / bottom line
+   --------------------------------------------------------- */
+
+.reveal .key-message {
+  margin-top: 0.65em;
+
+  padding: 0.42em 0.65em;
+
+  border-left: 6px solid #b51f2e;
+  background: #f4f4f4;
+
+  font-weight: 600;
+}
+
+
+/* ---------------------------------------------------------
+   Kicker
+   --------------------------------------------------------- */
+
+.reveal .kicker {
+  color: #b51f2e;
+
+  font-size: 0.55em;
+  font-weight: 600;
+
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+
+  margin-bottom: 0.35em;
+}
+
+
+/* ---------------------------------------------------------
+   Block quotes
+   --------------------------------------------------------- */
+
+.reveal blockquote {
+  width: 88%;
+
+  margin-left: 0;
+  padding-left: 24px;
+
+  border-left: 6px solid #b51f2e;
+
+  box-shadow: none;
+
+  font-size: 1.05em;
+  font-style: normal;
+}
+
+
+/* ---------------------------------------------------------
+   Tables
+   --------------------------------------------------------- */
+
+.reveal table {
+  font-size: 0.68em;
+  line-height: 1.18;
+}
+
+.reveal table th {
+  font-weight: 600;
+  border-bottom: 3px solid #b51f2e;
+}
+
+.reveal table td,
+.reveal table th {
+  padding: 0.30em 0.45em;
+  vertical-align: top;
+}
+
+.reveal .compact-table table {
+  font-size: 0.62em;
+}
+
+
+/* ---------------------------------------------------------
+   Section divider slides
+   --------------------------------------------------------- */
+
+.reveal .section-divider {
+  padding-top: 155px !important;
+}
+
+.reveal .section-divider h2 {
+  font-size: 2.05em;
+  line-height: 1.03;
+
+  margin-bottom: 0.25em;
+}
+
+.reveal .section-divider h2::after {
+  width: 90px;
+  height: 7px;
+
+  margin-top: 18px;
+}
+
+
+/* ---------------------------------------------------------
+   Text-size utilities
+   --------------------------------------------------------- */
+
+.reveal .large {
+  font-size: 1.15em;
+}
+
+.reveal .small {
+  font-size: 0.80em;
+}
+
+.reveal .smaller {
+  font-size: 0.70em;
+}
+
+.reveal .tiny {
+  font-size: 0.60em;
+}
+
+.reveal .muted {
+  color: #666666;
+}
+
+
+/* ---------------------------------------------------------
+   Links
+   --------------------------------------------------------- */
+
+.reveal a {
+  color: #b51f2e;
+  text-decoration: none;
+}
+
+.reveal a:hover {
+  text-decoration: underline;
+}
+
+
+/* ---------------------------------------------------------
+   Quarto footer — bottom centre
+   --------------------------------------------------------- */
+
+.reveal .footer,
+.reveal .footer-default,
+.footer-default {
+  font-size: 15px !important;
+  line-height: 1.1 !important;
+  color: #777777 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Slide references — bottom left
+   --------------------------------------------------------- */
+
+.reveal .slide-ref {
+  position: absolute;
+  left: 28px;
+  bottom: 9px;
+
+  font-size: 0.65em;
+  line-height: 1.2;
+  color: #777777;
+
+  margin: 0;
+  padding: 0;
+}
+
+.reveal .slide-ref p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+
+.reveal .slide-ref p {
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+}
+
+.reveal .slide-ref a,
+.reveal .slide-ref a:visited {
+  color: #777777;
+  text-decoration: none;
+}
+
+.reveal .slide-ref a:hover {
+  color: #555555;
+  text-decoration: underline;
+}
+
+
+/* ---------------------------------------------------------
+   Slide number — bottom right
+   --------------------------------------------------------- */
+
+.reveal .slide-number {
+  position: fixed !important;
+
+  right: 24px !important;
+  bottom: 13px !important;
+  left: auto !important;
+  top: auto !important;
+
+  font-size: 11px;
+  line-height: 1.2;
+
+  color: #777777;
+
+  background: transparent !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+
+/* ---------------------------------------------------------
+   Code
+   --------------------------------------------------------- */
+
+.reveal code {
+  font-size: 0.88em;
+}
+
+.reveal pre {
+  font-size: 0.68em;
+}
+
+
+/* ---------------------------------------------------------
+   Generic timeline
+   --------------------------------------------------------- */
+
+.reveal .timeline {
+  display: flex;
+  gap: 0.45em;
+  align-items: stretch;
+
+  margin-top: 0.45em;
+}
+
+.reveal .timeline-item {
+  flex: 1;
+  position: relative;
+
+  padding: 0.55em 0.55em 0.60em 0.55em;
+
+  border-top: 5px solid #b51f2e;
+  background: #f5f5f5;
+}
+
+.reveal .timeline-year {
+  font-size: 1.15em;
+  font-weight: 700;
+  color: #b51f2e;
+
+  margin-bottom: 0.18em;
+}
+
+.reveal .timeline-title {
+  font-size: 0.88em;
+  font-weight: 600;
+  line-height: 1.15;
+
+  margin-bottom: 0.30em;
+}
+
+.reveal .timeline-text {
+  font-size: 0.70em;
+  line-height: 1.25;
+
+  color: #333333;
+}
+
+
+/* ---------------------------------------------------------
+   Policy cycle
+   --------------------------------------------------------- */
+
+.reveal .cycle-number {
+  font-size: 0.65em;
+  font-weight: 700;
+  color: #b51f2e;
+}
+
+.reveal .cycle-title {
+  font-size: 0.78em;
+  font-weight: 600;
+
+  margin: 0.15em 0 0.25em 0;
+}
+
+.reveal .cycle-text {
+  font-size: 0.58em;
+  line-height: 1.25;
+}
+
+
+/* ---------------------------------------------------------
+   Microsoft Forms / embedded content
+   --------------------------------------------------------- */
+
+.reveal .forms-embed {
+  width: 100%;
+  height: 520px;
+
+  margin-top: 0.35em;
+
+  overflow: hidden;
+
+  border: 1px solid #dddddd;
+  background: #ffffff;
+}
+
+.reveal .forms-embed iframe {
+  width: 100%;
+  height: 100%;
+
+  border: 0;
+}
+
+
+/* ---------------------------------------------------------
+   Constitutional quotations
+   --------------------------------------------------------- */
+
+.constitutional-quote {
+  border-left: 6px solid #dc0018;
+  background: #f5f5f5;
+
+  padding: 1.2em 1.5em;
+
+  margin-top: 1.2em;
+
+  border-radius: 0.2em;
+}
+
+.constitutional-article {
+  color: #dc0018;
+
+  font-size: 0.8em;
+  font-weight: 700;
+
+  margin-bottom: 0.7em;
+
+  letter-spacing: 0.03em;
+}
+
+.constitutional-quote blockquote {
+  border-left: none;
+
+  margin: 0;
+  padding: 0;
+
+  font-size: 1.35em;
+  line-height: 1.3;
+}
+
+.constitutional-quote em {
+  font-size: 0.7em;
+}
+
+.constitutional-source {
+  font-size: 0.55em;
+
+  margin-top: 1.4em;
+
+  color: #666666;
+}
+
+
+/* =========================================================
+   Health-policy vote timeline
+   ========================================================= */
+
+.vote-timeline {
+  margin-top: 1.0em;
+  width: 100%;
+}
+
+
+/* One horizontal timeline */
+
+.timeline-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  position: relative;
+
+  margin: 1.2em 0 2.0em 0;
+
+  gap: 0.25em;
+}
+
+
+/* Horizontal line */
+
+.timeline-row::before {
+  content: "";
+
+  position: absolute;
+
+  top: 1.45em;
+  left: 2%;
+  right: 2%;
+
+  height: 2px;
+
+  background: #b5b5b5;
+
+  z-index: 0;
+}
+
+
+/* Individual vote */
+
+.vote {
+  position: relative;
+  z-index: 1;
+
+  flex: 1;
+  min-width: 0;
+
+  text-align: center;
+
+  font-size: 0.72em;
+  line-height: 1.25;
+
+  background: #ffffff;
+
+  padding: 0 0.18em;
+}
+
+
+/* Year */
+
+.vote b {
+  display: block;
+
+  font-size: 1.25em;
+  font-weight: 700;
+
+  margin-bottom: 0.15em;
+}
+
+
+/* Diamond milestone marker */
+
+.vote::before {
+  content: "";
+
+  display: block;
+
+  width: 0.48em;
+  height: 0.48em;
+
+  margin: 0.85em auto 0.55em auto;
+
+  background: #dc0018;
+  border: 2px solid #dc0018;
+
+  transform: rotate(45deg);
+}
+
+
+/* Result */
+
+.vote-result {
+  display: block;
+
+  margin-top: 0.2em;
+
+  font-weight: 700;
+}
+
+
+/* Swissvotes links */
+
+.vote a,
+.vote a:visited {
+  color: #dc0018 !important;
+
+  text-decoration: none;
+
+  font-weight: 600;
+}
+
+.vote a:hover {
+  color: #a80012 !important;
+  text-decoration: underline;
+}
+
+
+/* Linked years */
+
+.vote b a,
+.vote b a:visited {
+  color: #dc0018 !important;
+  font-weight: 700;
+}
+
+
+/* Keep long labels tidy */
+
+.vote br {
+  line-height: 1.1;
+}

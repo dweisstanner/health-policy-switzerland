@@ -1,0 +1,998 @@
+---
+title: "Health Policy in Switzerland"
+subtitle: "Course handout"
+author:
+  - "Ass.-Prof. Dr. David Weisstanner"
+  - "Dr. Victoria A. Haerter"
+institute: "Center for Health, Policy and Economics (CHPE), Faculty of Health Sciences and Medicine, University of Lucerne"
+date: "25 September & 1 October 2026"
+
+format:
+  typst:
+    papersize: a4
+    margin:
+      x: 22mm
+      y: 20mm
+    fontsize: 10.5pt
+    toc: true
+
+execute:
+  echo: false
+  warning: false
+---
+
+# Course overview
+
+This two-day course provides a practical introduction to Swiss health policy.
+It examines how institutions, actors and political processes shape health
+policy decisions and implementation.
+
+The course moves from understanding the system to analysing concrete
+health-policy challenges and, finally, seeing policy in practice.
+
+## Course programme
+
+### 1. Analytical toolkit
+
+**How does Swiss health policy work?**
+
+- Institutions and responsibilities
+- Actors and interests
+- Political process
+
+### 2. Five big questions
+
+**How do we apply the toolkit to major challenges?**
+
+- Understand the problem
+- Analyse the politics
+- Develop policy solutions
+
+### 3. Policy in practice
+
+**How does it work in the real world?**
+
+- Canton of Bern
+- Federal Palace
+- Exchange with policymakers
+
+## Overarching question
+
+**Why is solving major health-policy problems in Switzerland so politically
+difficult, and under what conditions can change nevertheless happen?**
+
+# From policy ideas to political reform
+
+Recurring questions in Swiss health policy:
+
+- **Who can decide?** Which level of government is responsible, or is it none
+  of the state's business?
+- **Who pays, who gains, who loses?** How are costs, benefits, access,
+  autonomy and authority distributed?
+- **Who can shape the reform?** Who can support, modify or block it?
+- **How can change happen?** What path through the political process is
+  possible?
+- **Who makes it work?** Who is responsible for implementation, and how do
+  we know whether it works?
+
+**A good policy idea is not yet a politically feasible and workable reform.**
+
+# Part I: Analytical toolkit
+
+## Three questions
+
+We will use three questions throughout the course:
+
+1. **Who can decide?**  
+   Institutions and responsibilities
+
+2. **Who wants what?**  
+   Actors, interests and political conflict
+
+3. **How does change happen?**  
+   The Swiss policy process
+
+
+# 1. Who can decide?
+
+## Federalism
+
+### Political power is shared across levels of government
+
+> "Switzerland is a federal state. In practice this means that political
+> power is shared by the Confederation, the cantons and the communes."
+
+### Self-rule
+
+Cantons retain substantial **autonomy and responsibilities** within their
+territory.
+
+### Shared rule
+
+Cantons also **participate in decision-making at the federal level**.
+
+Federalism therefore combines **cantonal autonomy** with **participation in
+the federation**.
+
+*Source: Swiss Confederation, ch.ch, "Federalism".*
+
+
+## How did Switzerland become a federal state?
+
+### Switzerland was built from below
+
+Before 1848, Switzerland was a confederation of largely sovereign cantons.
+
+The Federal Constitution of 1848 created a federal state, but the cantons
+retained substantial autonomy.
+
+> **Art. 3:** The cantons are sovereign insofar as their sovereignty is not
+> limited by the Federal Constitution.
+
+Federal authority is therefore not the default: powers must be **assigned to
+the Confederation by the Constitution**.
+
+*Source: Federal Constitution, Art. 3.*
+
+
+## Health policy: gradual centralisation
+
+Federal involvement in health policy expanded incrementally.
+
+### 1848: Federal state
+
+Health remains predominantly cantonal. The Confederation receives only a
+limited competence for epidemic control.
+
+### 1890: Health insurance
+
+A constitutional basis is created for federal legislation on sickness and
+accident insurance.
+
+### 1911: KUVG
+
+The first federal sickness and accident insurance law is adopted. Sickness
+insurance remains voluntary.
+
+### 1994 / 1996: KVG
+
+Mandatory basic health insurance is introduced, together with a stronger
+national regulatory framework.
+
+### Today
+
+Federal responsibilities have expanded, but Switzerland still has no general
+federal competence for healthcare provision.
+
+**Swiss health policy has become more centralised, but not fully
+centralised.**
+
+
+## Subsidiarity
+
+### Responsibilities should remain as close as possible to those affected
+
+> **Art. 5a:** The principle of subsidiarity must be observed in the
+> allocation and performance of state tasks.
+
+The Confederation should undertake tasks that require action at the federal
+level, while other responsibilities remain at lower levels.
+
+In health policy, responsibilities may therefore remain with:
+
+- cantons
+- municipalities
+- organisations close to service delivery
+
+**Federalism asks who can decide. Subsidiarity asks how high up a task needs
+to go.**
+
+*Source: Federal Constitution, Arts. 5a and 43a.*
+
+
+## Economic freedom
+
+### And not every problem is the state's business
+
+> **Art. 27:** Economic freedom is guaranteed.
+
+It includes the freedom to choose an occupation and to pursue a private
+economic activity.
+
+In health policy, this contributes to a strong role for:
+
+- private providers
+- health insurers
+- professional autonomy
+- negotiated and self-regulatory solutions
+
+The question is therefore not only **which level of government should act**,
+but also **whether and how the state should intervene at all**.
+
+*Source: Federal Constitution, Art. 27; Trein, Rüefli & Vatter (2023).*
+
+
+## Direct democracy
+
+Citizens are directly involved in major political decisions.
+
+### Referendum
+
+A referendum allows citizens to challenge decisions taken by parliament.
+
+The possibility of a referendum matters even when no vote ultimately takes
+place: policymakers anticipate potential opposition and may adapt proposals
+accordingly.
+
+### Popular initiative
+
+Popular initiatives allow citizens to propose constitutional change and can
+place new issues on the political agenda.
+
+### Health policy at the ballot box
+
+Examples include:
+
+- 1899: federal sickness and accident insurance law rejected
+- 1994: KVG accepted
+- 2012: managed care reform rejected
+- 2014: single-payer initiative rejected
+- 2021: Nursing Initiative accepted
+- 2024: EFAS accepted
+
+**Citizens can both put health-policy issues on the agenda and act as veto
+players.**
+
+
+## Power sharing and negotiated governance
+
+Swiss policymaking is characterised by broad inclusion, negotiation and
+compromise.
+
+This includes:
+
+- consultation with affected actors
+- coordination between Confederation and cantons
+- negotiation with organised interests
+- attempts to build broad political coalitions
+
+Opposition is therefore often incorporated into policymaking before the final
+decision.
+
+
+## Corporatism
+
+Corporatism is a specific form of negotiated governance in which organised
+interests participate directly in policy formulation, regulation or
+implementation.
+
+Health policy provides important examples, particularly where providers and
+insurers negotiate rules or tariffs that are subsequently approved or
+regulated by the state.
+
+**Public authority and private self-regulation are often intertwined.**
+
+
+## Who can decide? Summary
+
+Three institutional characteristics are particularly important:
+
+1. **Federalism**  
+   Authority is divided across levels of government.
+
+2. **Direct democracy**  
+   Citizens can place issues on the agenda and block reforms.
+
+3. **Negotiated governance**  
+   Political decisions frequently emerge from bargaining and compromise.
+
+But institutions alone do not explain policy outcomes.
+
+We also need to know **who the relevant actors are and what they want**.
+
+
+# 2. Who wants what?
+
+## Public and private actors
+
+Swiss health policy involves a large number of public and private actors.
+
+### Public actors
+
+- Confederation
+- cantons
+- municipalities
+- parliament
+- political parties
+
+They regulate, finance, plan and implement health policy.
+
+### Private and organised actors
+
+- healthcare providers
+- professional organisations
+- health insurers
+- pharmaceutical and other industries
+- patients and civil society
+
+They provide services, finance healthcare, negotiate rules and attempt to
+influence policy.
+
+**Swiss health policy emerges from the interaction of public authority and
+organised societal interests.**
+
+
+## Public actors
+
+### Confederation
+
+The Confederation has important responsibilities in areas including health
+insurance, pharmaceuticals, public-health protection and regulation.
+
+### Cantons
+
+Cantons retain major responsibilities for healthcare provision, planning,
+implementation and financing.
+
+### Municipalities
+
+Municipal responsibilities vary across cantons and may include areas such as
+long-term care and local healthcare provision.
+
+**The state is not one actor. Different levels of government may have
+different responsibilities and interests.**
+
+
+## Private and organised actors
+
+Important organised actors include:
+
+### Providers and professions
+
+Medical associations, hospitals, nursing organisations and other health
+professions.
+
+### Insurers and industry
+
+Health insurers, pharmaceutical companies and other health-sector
+organisations.
+
+### Patients and civil society
+
+Patient organisations, advocacy groups and other civil-society actors.
+
+These actors differ in their **interests, resources, organisation and access
+to policymakers**.
+
+
+## Citizens
+
+Citizens occupy several roles simultaneously:
+
+- patients
+- premium payers
+- taxpayers
+- voters
+
+These roles can generate competing preferences.
+
+A person may, for example, favour better access to healthcare while also
+opposing higher premiums or taxes.
+
+
+## What do actors want?
+
+Health-policy reforms can redistribute:
+
+- **money**
+- **access**
+- **autonomy**
+- **authority**
+
+Interests are not necessarily purely financial.
+
+They may reflect:
+
+- material interests
+- organisational interests
+- professional ideas
+- political values
+
+
+## Who has influence?
+
+Political influence can derive from different resources:
+
+- formal authority
+- expertise and information
+- implementation capacity
+- organisational resources
+- access to decision-makers
+- mobilisation capacity
+- referendum capacity
+
+**Formal responsibility and political influence are not the same thing.**
+
+
+## Who wants what? Summary
+
+When analysing a reform, ask:
+
+1. Who are the main actors?
+2. What do they want, and why?
+3. Who gains and who loses?
+4. What political resources do they possess?
+5. Who can support, modify or block the proposal?
+
+
+# 3. How does change happen?
+
+## The policy cycle
+
+A simple analytical map distinguishes five stages:
+
+1. **Agenda**
+2. **Formulation**
+3. **Decision**
+4. **Implementation**
+5. **Evaluation**
+
+The policy cycle is not a description of a perfectly linear process.
+
+Reforms can move backwards, stall, change direction or develop differently
+during implementation.
+
+
+## The Swiss policy process
+
+### Agenda
+
+How does an issue become recognised as requiring political action?
+
+### Formulation
+
+Which solutions are developed, and by whom?
+
+### Consultation
+
+How do cantons, parties and organised interests react to the proposal?
+
+### Decision
+
+Can a majority be assembled in government and parliament?
+
+### Direct democracy
+
+Is the decision challenged through a referendum, or is the issue shaped by
+an initiative?
+
+### Implementation
+
+How is the policy translated into practice?
+
+### Evaluation
+
+What effects does the reform produce?
+
+**A reform can be changed, delayed or blocked at multiple points.**
+
+
+## Consultation
+
+The consultation procedure (*Vernehmlassung*) gives affected actors an
+opportunity to respond to proposed legislation.
+
+Cantons, parties and organised interests can:
+
+- support a proposal
+- oppose it
+- identify implementation problems
+- demand changes
+
+Opposition can therefore reshape a policy **before the formal parliamentary
+decision**.
+
+
+## The long shadow of direct democracy
+
+Direct democracy matters even when there is no referendum.
+
+Policymakers may anticipate a potential referendum and therefore:
+
+- consult affected actors
+- modify proposals
+- build broader coalitions
+- seek compromise
+
+Popular initiatives can also force issues onto the political agenda.
+
+
+## Adoption is not the end
+
+Implementation can involve:
+
+- cantonal authorities
+- administrative rules
+- financing decisions
+- negotiations among stakeholders
+- healthcare organisations
+- professional practice
+
+A policy adopted in Bern may therefore look different when implemented in
+practice.
+
+
+## Why now?
+
+Major policy change does not occur simply because a problem exists.
+
+A window for change is more likely when three elements come together:
+
+### Problem
+
+An issue is recognised as requiring political attention.
+
+### Policy
+
+A viable solution is available.
+
+### Politics
+
+The political environment is favourable to action.
+
+Policy entrepreneurs can help connect these elements when a **policy window**
+opens.
+
+
+## Follow the reform
+
+To understand a reform, reconstruct its trajectory:
+
+**Problem → Proposal → Politics → Decision → Implementation → Outcome**
+
+Ask why the reform:
+
+- succeeded
+- failed
+- stalled
+- was modified
+- produced unexpected consequences
+
+
+# Part II: Five big questions
+
+The analytical toolkit will now be applied to five major challenges in Swiss
+health policy.
+
+
+# 1. How can Switzerland contain healthcare costs?
+
+Healthcare expenditure has increased over time, while cost-containment
+measures can impose concentrated losses on providers, insurers, patients or
+other actors.
+
+The political challenge is therefore:
+
+**How can Switzerland constrain expenditure growth when cost-saving measures
+impose losses on powerful actors?**
+
+Possible reform cases include:
+
+- cost-containment packages
+- tariff reforms
+- cost targets
+- limits on ambulatory service volumes or billing
+- other measures affecting prices or utilisation
+
+## Questions for analysis
+
+- What drives the problem?
+- Who has responsibility for addressing it?
+- Who would gain or lose from the proposed reform?
+- Who can support or block it?
+- How would it be implemented?
+
+
+# 2. How should the costs of healthcare be distributed?
+
+Healthcare financing is not only about the total amount spent.
+
+It also concerns how financial burdens are distributed among:
+
+- households
+- taxpayers
+- cantons
+- insurers
+- employers
+
+The political challenge is therefore:
+
+**Who should pay for healthcare, and how much solidarity should the system
+provide?**
+
+Possible reform cases include:
+
+- premium subsidies
+- the Premium Relief Initiative and counterproposal
+- EFAS
+- alternative premium models
+
+## Questions for analysis
+
+- Who currently bears the costs?
+- What distributional problem is the reform intended to address?
+- Who gains and who loses?
+- Which level of government bears responsibility?
+- What political coalition could support change?
+
+
+# 3. How can Switzerland secure access to healthcare with a constrained workforce?
+
+Workforce shortages can affect access to healthcare and create substantial
+regional differences.
+
+The issue concerns not only the number of health professionals, but also:
+
+- retention
+- working conditions
+- distribution across regions
+- professional roles
+- organisation of care
+
+The political challenge is:
+
+**How can Switzerland maintain access to healthcare when workforce capacity
+is constrained?**
+
+Possible reform cases include:
+
+- implementation of the Nursing Initiative
+- measures to strengthen primary care
+- medical study places
+- practice-assistant programmes
+- advanced practice roles
+- regional health centres
+
+## Questions for analysis
+
+- What exactly is the access problem?
+- Which professions and regions are affected?
+- Who can intervene?
+- Which policy instruments are available?
+- What are the political and implementation constraints?
+
+
+# 4. How can Switzerland strengthen public health?
+
+Many important determinants of health lie outside individual medical care.
+
+Public-health policy can involve:
+
+- prevention and health promotion
+- regulation of health risks
+- health literacy
+- population-based programmes
+- surveillance and health protection
+- action on social and environmental determinants
+
+Stronger public-health action can generate conflict over:
+
+- individual freedom
+- economic interests
+- federal and cantonal responsibilities
+- regulation
+- long-term versus immediate benefits
+
+The political challenge is:
+
+**How can Switzerland strengthen population health when responsibility is
+fragmented and many interventions reach beyond healthcare itself?**
+
+Possible reform cases include:
+
+- the failed Prevention Act
+- tobacco advertising
+- alcohol or nutrition policy
+- national prevention strategies
+- health-promotion programmes
+
+
+# 5. Can Swiss healthcare become simpler without creating more regulation?
+
+Swiss healthcare combines decentralised responsibilities, multiple payers,
+large numbers of providers and extensive regulation.
+
+Attempts to solve coordination and quality problems can themselves create
+additional administrative requirements.
+
+The political challenge is:
+
+**Can administrative complexity be reduced without simply adding another
+layer of regulation?**
+
+Possible reform cases include:
+
+- measures to reduce administrative burden
+- digitalisation
+- the electronic patient record
+- quality regulation
+- simplification measures in primary care
+
+
+# Your policy challenge
+
+Each group becomes the expert team for one of the five challenges.
+
+Your task is to move from a broad policy problem to a **specific political
+analysis**.
+
+## 1. Understand
+
+- What is the central problem?
+- How did it develop?
+- What is the current situation?
+- What evidence shows that it matters?
+
+## 2. Explain
+
+- Who can decide?
+- Who wants what?
+- Who gains and who loses?
+- Why is addressing the problem politically difficult?
+
+## 3. Follow a reform
+
+Select one concrete policy proposal.
+
+Reconstruct:
+
+**Problem → Proposal → Politics → Decision → Implementation → Outcome**
+
+## 4. Assess
+
+- Why did the reform succeed, fail, stall or change?
+- What are its main opportunities and limitations?
+- What should happen next?
+
+
+# Policy Challenge Dossier
+
+Prepare a concise two-page dossier.
+
+## Page 1: The challenge
+
+Include:
+
+- the challenge in one sentence
+- two or three important turning points
+- two or three key indicators
+- the central political trade-off
+
+### Actor analysis
+
+| Actor | Responsibility | Interest / position | Influence |
+|---|---|---|---|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+## Page 2: The reform
+
+Identify:
+
+- the reform selected
+- the main stages of the political process
+- key actors and conflicts
+- opportunities and limitations
+- why it succeeded, failed, stalled or changed
+- what should happen next
+- two or three unresolved questions
+
+
+# Part III: Policy in practice
+
+# Day 2
+
+## From policy analysis to political questions
+
+Day 2 uses the analytical toolkit to move from understanding a policy problem
+to assessing concrete policy proposals.
+
+We return to three questions:
+
+1. **Who can decide?**  
+   Institutions and responsibilities
+
+2. **Who wants what?**  
+   Actors, interests and political influence
+
+3. **How does change happen?**  
+   Political process and implementation
+
+
+## Today's goal
+
+For your policy challenge:
+
+1. update your diagnosis
+2. identify one or two concrete policy proposals
+3. assess their political opportunities and obstacles
+4. test your analysis against the cantonal perspective
+5. develop targeted questions for policymakers
+
+
+# Canton of Bern
+
+## Test your analysis
+
+During the visit to the Health Office of the Canton of Bern, listen for
+evidence that:
+
+- confirms your assumptions
+- challenges your assumptions
+- reveals an implementation problem
+- changes your assessment of the policy proposal
+
+After the visit, ask:
+
+**What did we learn from the cantonal perspective?**
+
+
+# Stress-test your policy proposal
+
+For your selected proposal, ask:
+
+### Who can decide?
+
+Which level of government or other actor has authority?
+
+### Who pays, gains or loses?
+
+What are the main distributive consequences?
+
+### Who supports or opposes it?
+
+What are the principal political coalitions?
+
+### Where could it be modified or blocked?
+
+At which stage of the political process is the proposal vulnerable?
+
+### Who implements it?
+
+What happens after formal adoption?
+
+### How would we know whether it works?
+
+What would constitute policy success?
+
+
+# From analysis to interview questions
+
+The aim is not to ask policymakers for general opinions.
+
+Use your research to identify:
+
+- a specific political choice
+- a genuine trade-off
+- an unresolved conflict
+- an implementation obstacle
+
+A strong interview question:
+
+- concerns a **concrete policy proposal**
+- identifies a **real political trade-off**
+- can be answered by a national policymaker
+- requires a position or explanation
+- allows a targeted follow-up
+
+
+# Ask like an interviewer
+
+### Too broad
+
+> What should Switzerland do about the shortage of healthcare workers?
+
+### More targeted
+
+> The Nursing Initiative was accepted in 2021. Which measure in its
+> implementation will make the biggest difference to retaining nurses?
+
+### Follow-up
+
+> If working conditions do not improve, should the Confederation impose
+> stronger requirements on employers?
+
+The research may be complex. **The question should be short.**
+
+
+# Prepare your interview guide
+
+Each group prepares two candidate questions.
+
+For each question, specify:
+
+| Element | Preparation |
+|---|---|
+| **Policy proposal** | What concrete measure are we discussing? |
+| **What we know** | What does our research tell us? |
+| **Political tension** | What is contested or unresolved? |
+| **Main question** | Short and direct |
+| **Likely answer** | What response do we expect? |
+| **Follow-up** | What will we ask if the central issue is avoided? |
+
+
+# Conversation with National Councillor Manuela Weichelt
+
+Our questions will be organised around the five policy challenges.
+
+The objective is a **focused policy conversation informed by evidence**, not
+five separate presentations.
+
+Use follow-up questions where appropriate.
+
+
+# Final synthesis
+
+Return to our overarching question:
+
+**Why is solving major health-policy problems in Switzerland so politically
+difficult, and under what conditions can change nevertheless happen?**
+
+Consider the interaction of:
+
+- institutions
+- actors and interests
+- political processes
+- implementation
+
+# Required reading
+
+Trein, Philipp, Christian Rüefli, and Adrian Vatter. 2023. "Health Policy."
+In *The Oxford Handbook of Swiss Politics*, 714–732. Oxford University Press.
+
+# Useful links
+
+## Federal and cantonal health policy and regulation
+
+- [Federal Office of Public Health (FOPH/BAG)](https://www.bag.admin.ch/)
+- [Federal Department of Home Affairs (FDHA/EDI)](https://www.edi.admin.ch/)
+- [Fedlex](https://www.fedlex.admin.ch/)
+- [GDK/CDS](https://www.gdk-cds.ch/)
+- [Swissmedic](https://www.swissmedic.ch/)
+- [Health Promotion Switzerland](https://gesundheitsfoerderung.ch/)
+
+## Health insurance, financing and tariffs
+
+- [prio.swiss](https://www.prioswiss.ch/)
+- [Common Institution under the KVG](https://www.kvg.org/)
+- [SwissDRG](https://www.swissdrg.org/)
+- [OAAT](https://www.oaat-otma.ch/)
+
+## Providers, health professions and industry
+
+- [FMH](https://www.fmh.ch/)
+- [H+](https://www.hplus.ch/)
+- [alliance care](https://www.alliance-care.ch/)
+- [Federation of Swiss Psychologists (FSP)](https://www.psychologie.ch/en)
+- [Physioswiss](https://physioswiss.ch/)
+- [pharmaSuisse](https://www.pharmasuisse.org/)
+- [Interpharma](https://www.interpharma.ch/)
+- [Spitex Switzerland](https://www.spitex.ch/)
+- [ARTISET](https://www.artiset.ch/)
+- [OdASanté](https://www.odasante.ch/)
+
+## Health statistics, monitoring and quality
+
+- [Federal Statistical Office (FSO/BFS)](https://www.bfs.admin.ch/)
+- [Swiss Health Observatory (Obsan)](https://www.obsan.admin.ch/)
+- [Federal Quality Commission (FQC/EQK)](https://www.bag.admin.ch/en/federal-quality-commission)
+- [ANQ](https://www.anq.ch/)
+
+## International and comparative information
+
+- [European Observatory: Switzerland](https://eurohealthobservatory.who.int/)
+- [OECD Health](https://www.oecd.org/en/topics/health.html)
+- [WHO Switzerland](https://www.who.int/countries/che/)
+- [Commonwealth Fund: Switzerland](https://www.commonwealthfund.org/international-health-policy-center/countries/switzerland)

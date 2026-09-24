@@ -1,0 +1,15 @@
+{
+  "slides.qmd": {
+    "slides.html": "5c8cb242"
+  },
+  "handout.qmd": {
+    "handout.tex": "75a6585d",
+    "handout.typ": "3fa2306e"
+  },
+  "slides_day1.qmd": {
+    "slides_day1.html": "bdda76c7"
+  },
+  "slides_day2.qmd": {
+    "slides_day2.html": "b4a7d530"
+  }
+}

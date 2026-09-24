@@ -1,0 +1,51 @@
+
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Health Policy in Switzerland"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: day1.qmd
+        text: Day 1
+      - href: day2.qmd
+        text: Day 2
+
+format:
+  html:
+    theme: cosmo
+
+  revealjs:
+    theme: [default, custom.scss]
+    slide-number: true
+    transition: none
+    background-transition: fade
+    center: false
+    controls: true
+    progress: true
+    hash: true
+    width: 1600
+    height: 900
+    margin: 0.06
+    code-fold: false
+    title-slide-attributes:
+      data-background-color: "#ffffff"
+
+bibliography: references.bib
+
+nocite: |
+  @depietroSwitzerlandHealthSystem2015, @boesHealthSystemsAction2025, @treinHealthPolicy2023, @linderSwissDemocracyPossible2021, @treinGesundheitspolitik2022, @ruefliSwitzerland2021, @ruefliGesundheitspolitik2015
+
+title-slide-attributes:
+  data-background-image: images/bundeshaus.png
+  data-background-size: "130% auto"
+  data-background-position: "left top"
+  data-background-opacity: "0.8"
+
+execute:
+  echo: false
+  warning: false
+  message: false
