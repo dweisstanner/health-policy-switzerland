@@ -1,0 +1,31 @@
+
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - slides_day1.qmd
+    
+    
+website:
+  title: "Health Policy in Switzerland"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: slides_day1.qmd
+        text: Day 1
+
+format:
+  html:
+    theme: cosmo
+
+bibliography: references.bib
+
+nocite: |
+  @depietroSwitzerlandHealthSystem2015, @boesHealthSystemsAction2025, @treinHealthPolicy2023, @linderSwissDemocracyPossible2021, @treinGesundheitspolitik2022, @ruefliSwitzerland2021, @ruefliGesundheitspolitik2015
+
+execute:
+  echo: false
+  warning: false
+  message: false
