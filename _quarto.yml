@@ -1,11 +1,10 @@
 
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
   render:
     - index.qmd
-    - slides_day1.qmd
-    
+    - slides_day1.qmd    
     
 website:
   title: "Health Policy in Switzerland"

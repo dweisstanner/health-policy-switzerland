@@ -1524,7 +1524,7 @@ questions to ask about a real reform.
 
 ## The legislative process in Switzerland
 
-![](policy_process_ch.png){fig-align="center" width="50%"}
+![](images\policy_process_ch.png){fig-align="center" width="50%"}
 
 ::: slide-ref
 [@kaufmannStrengthsWeakSwiss2023; @linderSwissDemocracyPossible2021, pp.
