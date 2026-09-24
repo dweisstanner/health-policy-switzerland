@@ -5,7 +5,7 @@ subtitle: "PhD course | University of Lucerne | 2026"
 
 ## Course slides
 
-### [Day 1: Institutions, actors and policy change](day1.qmd)
+### [Day 1: Institutions, actors and policy change](slides_day1.qmd))
 
 Friday, 25 September 2026
 
